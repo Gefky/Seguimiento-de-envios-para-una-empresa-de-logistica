@@ -41,6 +41,12 @@ Este proyecto lo hice como práctica para aprender a manejar bases de datos, con
 -SQL inserts
 
 
+## Diagrama ER
+
+
+
+
+
 
 
 
