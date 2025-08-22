@@ -1,5 +1,6 @@
 # Seguimiento de envios para una empresa de logistica
 😄DESCRIPCIÓN
+
 Este proyecto lo hice como práctica para aprender a manejar bases de datos, consultas y la creación de una aplicación sencilla de logística. La idea principal es que una empresa pueda dar seguimiento a los paquetes que envía, desde que se registran hasta que llegan al cliente.
  ¿Qué hace el sistema?
 •	Permite registrar clientes y sus datos.
@@ -18,15 +19,24 @@ Este proyecto lo hice como práctica para aprender a manejar bases de datos, con
 
 😎Integrantes
 06 Angelly Daniela Paz 
+
 11 Emily Yosibel Buezo
+
 14 Hanna Sophia Hernández (Coordinadora)
+
 19 Kimberly Betzai Guevara
+
 31 ÁN¿ngel Daniel Chicas
 
+
 💻Contenido
+
 -SQL creacion
+
 -SQL vistas
+
 -SQL consultas
+
 -SQL inserts
 
 
