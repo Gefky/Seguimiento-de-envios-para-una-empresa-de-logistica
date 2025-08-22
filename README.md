@@ -26,7 +26,7 @@ Este proyecto lo hice como práctica para aprender a manejar bases de datos, con
 
 19 Kimberly Betzai Guevara
 
-31 ÁN¿ngel Daniel Chicas
+31 Ángel Daniel Chicas
 
 
 💻Contenido
